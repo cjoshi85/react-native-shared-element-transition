@@ -1,0 +1,12 @@
+{
+  "name": "shared-element-transition",
+  "displayName": "shared-element-transition",
+  "expo": {
+    "name": "shared-element-transition",
+    "slug": "shared-element-transition",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
